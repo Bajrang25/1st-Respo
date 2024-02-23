@@ -1,3 +1,3 @@
-# 1st-Respo
+cd# 1st-Respo
 This is my first Git Repository.
-Author - Bajrang Karbhari.
+Author - Bajrang Karbhari(Vicky).
